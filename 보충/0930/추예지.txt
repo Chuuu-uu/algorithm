@@ -1,0 +1,12 @@
+1.
+전위순회: ABDHIEJCFKGLM
+중위순회: BDIBJEAFKCLGM
+후위순회: HIDJEBKFFLMGCA
+
+2. 
+Stack: 마지막에 들어온 데이터가 제일 먼저 나감
+Queue: 먼저 들어온 데이터가 제일 먼저 나감
+
+3. 1246573
+
+4. 1234576
